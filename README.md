@@ -11,8 +11,12 @@ This repository is a collection of my Java projects, documenting my learning jou
 - **Description:** A basic calculator that performs arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
 ### 2️⃣ [To-Do List](02-To-Do-List/)
-- **Concepts Used:** ArrayList, Loops, Methods, Scanner Class, User Input Handling
+- **Concepts Used:** ArrayList, Loops, Methods, Scanner Class, User Input, File Handling
 - **Description:** A simple to-do list application that allows users to add, remove, and view tasks dynamically.
+
+### 3️⃣ [Employee Data Management System](03-Employee-Data-Management-System/)
+- **Concepts Used:** ArrayList, Loops, CRUD Operations, Getters & Setters, Method Overriding
+- **Description:** A simple A system to add, update, delete, and search employee records.
 
 ---
 
